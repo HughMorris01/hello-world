@@ -1,2 +1,2 @@
-# template-repository
+# hello-world
 Sample repository for learning purposes
